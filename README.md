@@ -3,7 +3,7 @@ I'm a software engineering undergraduate at SLIIT university. I am passionate ab
 
 - 🌱 I’m currently learning react
 - 💬 Ask me about react
-- 😄 Pronouns: he\him 
+- 😄 Pronouns: He\Him 
 <br>
 <details>
 <summary>
