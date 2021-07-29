@@ -28,7 +28,7 @@ GitHub Stats
 </details>
 <br>
 
-### 📫 Feel free to reach me at,
+#### 📫 Feel free to reach me at,
 <br>
 
 [<img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white"/>](mailto:chamindujayasith999@gmail.com)
