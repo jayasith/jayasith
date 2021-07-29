@@ -19,7 +19,7 @@ GitHub Stats
 </summary>
 <br/>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact&theme=tokyonight"  width="486px" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact&theme=tokyonight"  width="490px" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=jayasith&theme=tokyonight"></p>
   
