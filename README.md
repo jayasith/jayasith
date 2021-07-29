@@ -36,3 +36,7 @@ GitHub Stats
 [<img src="https://img.shields.io/badge/-Facebook-%234267B2?logo=facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100009268931810)
 [<img src="https://img.shields.io/badge/-Instagram-%23bc2a8d?logo=Instagram&logoColor=white"/>](https://www.instagram.com/_.c.h.a.m.i.n.d.u._/)
 [<img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=%23ffff"/>](https://twitter.com/C_Jayasith)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact" alt="jayasith" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&" alt="jayasith" /></p>
