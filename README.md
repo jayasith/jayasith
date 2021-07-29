@@ -1,4 +1,4 @@
-### Hi there, I'am Chamindu👋
+### Hi there, I'm Chamindu👋
 
 <!--
 **jayasith/jayasith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
