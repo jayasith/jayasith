@@ -37,4 +37,3 @@ GitHub Stats
 [<img src="https://img.shields.io/badge/-Instagram-%23bc2a8d?logo=Instagram&logoColor=white"/>](https://www.instagram.com/_.c.h.a.m.i.n.d.u._/)
 [<img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=%23ffff"/>](https://twitter.com/C_Jayasith)
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact" alt="jayasith" /></a><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&" alt="jayasith" /></a>
