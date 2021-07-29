@@ -19,11 +19,11 @@ GitHub Stats
 </summary>
 <br/>
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="495px"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="300px" width="495px"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayasith&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=jayasith&theme=tokyonight">
   
-<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&&theme=tokyonight">
   
 </details>
 <br>
