@@ -23,7 +23,7 @@ GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=jayasith&theme=tokyonight">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&&theme=tokyonight">
+<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&&theme=tokyonight">
   
 </details>
 <br>
