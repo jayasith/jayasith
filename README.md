@@ -19,16 +19,16 @@ GitHub Stats
 </summary>
 <br/>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact&theme=tokyonight"  width="486px" />
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact&theme=tokyonight"  width="486px" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayasith&theme=tokyonight">
+<p><img src="https://github-readme-stats.vercel.app/api?username=jayasith&theme=tokyonight"></p>
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&&theme=tokyonight">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&&theme=tokyonight"></p>
   
 </details>
 <br>
 
-####:mailbox_with_mail:Feel free to reach me at,
+:mailbox_with_mail:Feel free to reach me at,
 <br>
 
 [<img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white"/>](mailto:chamindujayasith999@gmail.com)
