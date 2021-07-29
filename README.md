@@ -38,5 +38,4 @@ GitHub Stats
 [<img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=%23ffff"/>](https://twitter.com/C_Jayasith)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasith&show_icons=true&locale=en&layout=compact" alt="jayasith" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasith&" alt="jayasith" /></p>
