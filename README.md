@@ -28,7 +28,7 @@ GitHub Stats
 </details>
 <br>
 
-:mailbox_with_mail: Feel free to reach me at,
+:mailbox_with_mail:####Feel free to reach me at,
 <br>
 
 [<img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white"/>](mailto:chamindujayasith999@gmail.com)
