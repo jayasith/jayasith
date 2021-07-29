@@ -31,9 +31,8 @@ GitHub Stats
 :mailbox_with_mail: Feel free to reach me at,
 <br>
 
-![Gmail Badge](https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white&&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ftab%3Drm%26ogbl%23inbox)
-![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230e76a8?logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchamindu-jayasith-099068201%2F)
-![Facebook Badge](https://img.shields.io/badge/-Facebook-%234267B2?logo=facebook&logoColor=white&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%)
-![instagram Badge](https://img.shields.io/badge/-Instagram-%23bc2a8d?logo=Instagram&logoColor=white&url=https%3A%2F%2Fwww.instagram.com%2F_.c.h.a.m.i.n.d.u._%2F)
-![Twitter Badge](https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=%23ffff&link=https://twitter.com/C_Jayasith)
+[<img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white"/>](mailto:chamindujayasith999@gmail.com)
+[<img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/chamindu-jayasith-099068201/)
+[<img src="https://img.shields.io/badge/-Facebook-%234267B2?logo=facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100009268931810)
+[<img src="https://img.shields.io/badge/-Instagram-%23bc2a8d?logo=Instagram&logoColor=white"/>](https://www.instagram.com/_.c.h.a.m.i.n.d.u._/)
 [<img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=%23ffff"/>](https://twitter.com/C_Jayasith)
