@@ -36,5 +36,4 @@ GitHub Stats
 ![Facebook Badge](https://img.shields.io/badge/-Facebook-%234267B2?logo=facebook&logoColor=white&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%)
 ![instagram Badge](https://img.shields.io/badge/-Instagram-%23bc2a8d?logo=Instagram&logoColor=white&url=https%3A%2F%2Fwww.instagram.com%2F_.c.h.a.m.i.n.d.u._%2F)
 ![Twitter Badge](https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=%23ffff&link=https://twitter.com/C_Jayasith)
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=%23ffff" link="https://twitter.com/C_Jayasith">
 
