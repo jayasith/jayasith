@@ -29,7 +29,6 @@ GitHub Stats
 <br>
 
 #### 📫 Feel free to reach me at,
-<br>
 
 [<img src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white"/>](mailto:chamindujayasith999@gmail.com)
 [<img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/chamindu-jayasith-099068201/)
